@@ -8,7 +8,7 @@ int main()
     printf("Enter your limit: ");
     scanf("%d", &n);
 
-    printf("Fibonacci Series:\n");
+    printf("Fibonacci Series:\n"); // aita holo n tomo porjonto koyta fibonacci ache
 
    while(n1<= n)
     {
